@@ -1,0 +1,1 @@
+This project selects standard elements you need to build a custom truss construction.
